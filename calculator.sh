@@ -5,4 +5,5 @@ This file is to create an calculator functionality in shell scripting
  set -o
 
 Function for addition
+substraction
 
