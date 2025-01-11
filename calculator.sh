@@ -6,4 +6,6 @@ This file is to create an calculator functionality in shell scripting
 
 Function for addition
 substraction
+division 
+multiplication
 
