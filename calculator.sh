@@ -4,4 +4,5 @@ This file is to create an calculator functionality in shell scripting
  set -e
  set -o
 
+Function for addition
 
